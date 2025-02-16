@@ -1,0 +1,10 @@
+ui_comp_batteryindicator.c
+ui_comp.c
+ui_FrontScreen.c
+ui.c
+ui_comp_hook.c
+ui_helpers.c
+ui_events.c
+ui_img_fullbattery_png.c
+ui_img_halfbattery_png.c
+ui_img_emptybattery_png.c
