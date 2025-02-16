@@ -1,1 +1,1 @@
-# Simple Smartwatch project
+# PassionProjects
